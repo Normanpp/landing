@@ -1,0 +1,37 @@
+.banner {
+  background-image: url('http://pavbca.com/walldb/original/9/2/b/668549.jpg');
+  background-size: cover;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-infos {
+  color: white;
+}
+
+.banner-infos h1 {
+  text-shadow: 5px 5px 0px purple;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 52px;
+}
+
+.banner-infos p {
+  font-size: 30px;
+}
+
+.banner-infos a {
+  font-size: 30px;
+  background: white;
+  box-shadow: 5px 5px 0px purple;
+  padding: 10px 20px;
+  font-weight: bold;
+  color: purple;
+}
+
+.banner-infos a:hover {
+  background: purple;
+  box-shadow: 5px 5px 0px white;
+  color: white;
+}

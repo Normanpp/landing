@@ -1,0 +1,25 @@
+.cards {
+  display: flex;
+
+}
+
+.cards h2 {
+color: white;
+font-family: 'Permanent Marker', cursive;
+}
+
+.card-white {
+  background: white;
+  margin: 30px;
+  padding: 10px;
+  width: 200px;
+  box-shadow: 5 5 0px purple;
+  text-align: center;
+  border: 1px solid white;
+
+}
+
+.card-white img {
+  height: 60px;
+  width: 60px;
+}
